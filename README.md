@@ -4,10 +4,10 @@ LLM을 사용해서 Fine-tuning 없이 prompt engneering으로 어느정도의 �
 Zero-shot text가 주어졌을 때 정형화된 결과를 받고자 하고 이에 대한 성능 평가를 진행하고자 함.<br/>
 
 ## Data
-> 네이버 쇼핑 리뷰 데이터
-> 출처: 네이버 쇼핑 (https://shopping.naver.com/)
-> 수집 기간: 2020.06~2020.07
-> 데이터 건수: 20만 건
+> 네이버 쇼핑 리뷰 데이터	  <br/>
+> 출처: 네이버 쇼핑 (https://shopping.naver.com/)	<br/>
+> 수집 기간: 2020.06~2020.07	<br/>
+> 데이터 건수: 20만 건	<br/>
 
 ## LLM
 > chatGPT 3.5 turbo
